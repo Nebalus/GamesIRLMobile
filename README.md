@@ -1,2 +1,2 @@
 # ProjectGG
-This is the Repo for the "Global Games" Hybrid Phone App that will be compatable with iOS &amp; Android
+This is the repo for the 'Global Games' hybrid phone app that will be compatible with iOS and Android
