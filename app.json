@@ -3,9 +3,12 @@
     "name": "GamesIRL",
     "slug": "GamesIRL",
     "version": "1.0.0",
+
+    "scheme": "gamesirl",
+
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -42,7 +45,8 @@
       ]
     ],
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": true,
+      "tsconfigPaths": true
     }
   }
 }
